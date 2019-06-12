@@ -30,7 +30,6 @@ As a user who uses cloud services everyday (Google Drive, OneDrive, etc.), I fou
 
 # Before Getting Started
 In using the script, it assumes that you already have a domain. Don't have one? You can just use a dynamic DNS (DDNS) as your domain instead! I've used No-IP and it works fine. The only issue that I find is that your server must always be running to connect your DDNS to your server. You can find other DDNS domains or others that are either free or unpaid. Just make sure the domain redirects to your server.
-Also, make sure you 
 
 # Packages Automatically Installed
 The following packages are installed once confirmation for the server installed is certified:
