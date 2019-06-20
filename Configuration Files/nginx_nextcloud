@@ -1,3 +1,10 @@
+# This file used the following sources in its creation:
+# https://felixbreuer.me/tutorial/Setup-NextCloud-FrontEnd-Nginx-SSL-Backend-Apache2.html
+# https://helpcenter.onlyoffice.com/server/document/document-server-proxy.aspx
+
+# Extra note: This file may be replaced by NextCloud's Nginx configuration found here:
+# https://docs.nextcloud.com/server/15/admin_manual/installation/nginx.html
+
 map $http_x_forwarded_proto $the_scheme {
      default $http_x_forwarded_proto;
      "" $scheme;

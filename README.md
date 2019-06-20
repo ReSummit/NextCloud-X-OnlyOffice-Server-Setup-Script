@@ -5,6 +5,8 @@ This is a useful script that helps facilitate the installation of Nextcloud with
 This script is in development, meaning that there may be some errors when installing NextCloud and OnlyOffice. Thus, I am not responsible if your system / server becomes unstable. Also, I am still working out some kinks in the script working, so more advanced terminal knowledge is necessary. 
 
 # Updates (Even those before I accidentally deleted the repository)
+June 15, 2019: Unsatisfied with the citation of sources, I put which sources were used in the creation of each file. I also added lines regarding "Strict-Transport-Security" to help with the file server's security.
+
 June 12, 2019: Recreated repository. Ran through the script and configuration files to test usability of script and fixed some kinks in the provided Github template configurations. Removed my own password and domain from the previous commit (because its a password I use).
 
 June 11, 2019: Updated general guideline in how the script works and what packages it installs. Posting sources and instructions before actually posting my script on Github (because attributions should be given before showing the code). Also deleted repository :/
